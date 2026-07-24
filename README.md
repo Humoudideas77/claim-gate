@@ -35,3 +35,7 @@ A sentence is flagged when it contains any of: a percentage, a currency figure, 
 ## License
 
 MIT
+
+---
+
+More free tools + guides: [humoudalmunawer.vercel.app](https://humoudalmunawer.vercel.app/en/#tools)
